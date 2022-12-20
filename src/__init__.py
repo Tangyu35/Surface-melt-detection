@@ -1,0 +1,3 @@
+from .deeplabv3_model import deeplabv3_resnet50, deeplabv3_resnet101, \
+    deeplabv3_mobilenetv3_large, deeplabv3plus_resnet50, deeplabv3plus_mobilenetv3_large
+from .deeplabv3_model_with_cbam import deeplabv3plus_resnet50_with_cbam, deeplabv3plus_mobilenetv3_large_with_cbam

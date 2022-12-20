@@ -1,0 +1,26 @@
+# pre-trained model weights
+# all weights are uploaded to Google Drive
+
+ResNet-with-Normalization-and-CBAM:
+https://drive.google.com/file/d/1Inx4sNNAyLw7USGQZrNZxbPPMCUNVDNi/view?usp=sharing;
+
+ResNet-with-Normalization-and-without-CBAM:
+https://drive.google.com/file/d/1sifkIn-FSpPsvixxnPo8vkQIKD_4X4Y1/view?usp=sharing;
+
+ResNet-without-Normalization-and-with-CBAM:
+https://drive.google.com/file/d/1Ltir4mAKTXaWl7KD0P7oDG8jJlOzZO90/view?usp=sharing;
+
+ResNet-without-Normalization-and-without-CBAM:
+https://drive.google.com/file/d/1Yp_Z76lEs0JJnWBTdZQLJwYplYGUpT86/view?usp=sharing;
+
+MobileNet-with-Normalization-and-CBAM:
+https://drive.google.com/file/d/1K7OygttLtlie7_RdOkm8B6J73lHrVMwO/view?usp=sharing;
+
+MobileNet-with-Normalization-and-without-CBAM:
+https://drive.google.com/file/d/1XIqaxvx5lPLG6-_jzwmKUKJQs7b8BHMg/view?usp=sharing;
+
+MobileNet-without-Normalization-and-with-CBAM:
+https://drive.google.com/file/d/1TnbA8IVHl-1_tnyW8SCQLaJjybmIYaMp/view?usp=sharing;
+
+MobileNet-without-Normalization-and-without-CBAM:
+https://drive.google.com/file/d/1nG0Z0GR3XLBlGmSKm-mA7myTnfIYKOG2/view?usp=sharing;
